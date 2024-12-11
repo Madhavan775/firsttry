@@ -1,1 +1,2 @@
-hello now this file going to be ignored because it conatins password and other authentication detials
+this file is changed now
+
