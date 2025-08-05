@@ -1,1 +1,3 @@
 version 3
+git diff -tells diff btw working directory and previously committed version.
+checkout: git checkout <hashcode/version code> -- filename,this will replace th content of the specified file of working directory with content of specified file of previous commit verison or specific commit version  
